@@ -1,4 +1,4 @@
-# JavaScript Assignment 2
+# JavaScript Assignment 
 
 ### Overview
 
