@@ -20,7 +20,7 @@ function addScore() {
     var question7 = document.quiz.q7.value;
     var question8 = document.quiz.q8.value;
 
-    if (question1 == "November_6") {
+    if (question1 == "True") {
 	    score++;
     } else if (question1 == false) {
         unanswered++;
@@ -44,19 +44,19 @@ function addScore() {
         unanswered++;
       } else (incorrect--)
 
-    if (question5 == "35") {
+    if (question5 == "100") {
 	    score++;
     } else if (question5 == false) {
         unanswered++;
       } else (incorrect--)
 
-    if (question6 == "True") {
+    if (question6 == "BallotPedia") {
 	    score++;
     } else if (question6 == false) {
         unanswered++;
       } else (incorrect--)
 
-    if (question7 == "BallotPedia") {
+    if (question7 == "True") {
 	    score++;
     } else if (question7 == false) {
         unanswered++;
